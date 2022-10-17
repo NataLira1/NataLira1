@@ -10,6 +10,8 @@ Faço graduação de Ciências da Computação na UFCG e sempre fui apaixonado p
 
 ![NataLira1 GitHub stats](https://github-readme-stats.vercel.app/api?username=NataLira1&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataLira1&layout=compact)](https://github.com/NataLira1/github-readme-stats)
+
 ### Tecnologias que utilizo no dia a dia
 
 <div style="display: inline_block">
