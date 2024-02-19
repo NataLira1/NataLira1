@@ -1,6 +1,5 @@
 ### Olá! Eu sou Natã Cavalcante 👋
 
-Faço graduação de Ciências da Computação na UFCG e sempre fui apaixonado por tecnologia.
 
 ### Entre em contato comigo
 
