@@ -10,8 +10,7 @@
 
 - 💻 Apaixonado por tecnologia, programação e inovação
 - 🎓 Estudante de Ciência da Computação na UFCG
-- 🌱 Atualmente focado em aprimorar meus conhecimentos em desenvolvimento web e mobile
-- 📫 Contato: [Seu email aqui] | [LinkedIn](https://www.linkedin.com/in/seu-perfil) 
+- 📫 Contato: [cavalcantenatan28@gmail.com] | [LinkedIn](https://www.linkedin.com/in/nat%C3%A3-cavalcante-19b340300/) 
 
 ---
 
